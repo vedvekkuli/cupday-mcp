@@ -3,7 +3,16 @@
   "name": "app.cupday/cupday",
   "title": "Cupday",
   "description": "Plan and run youth sports tournaments: schedules, live scores, tables and referee links.",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "websiteUrl": "https://cupday.app/docs/mcp",
-  "remotes": [{ "type": "streamable-http", "url": "https://cupday.app/mcp" }]
+  "remotes": [
+    {
+      "type": "streamable-http",
+      "url": "https://cupday.app/mcp"
+    }
+  ],
+  "repository": {
+    "url": "https://github.com/vedvekkuli/cupday-mcp",
+    "source": "github"
+  }
 }

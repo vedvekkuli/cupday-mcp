@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "cupday": {
+      "type": "http",
+      "url": "https://cupday.app/mcp"
+    }
+  }
+}

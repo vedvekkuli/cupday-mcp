@@ -1,0 +1,9 @@
+{
+  "$schema": "https://static.modelcontextprotocol.io/schemas/2025-12-11/server.schema.json",
+  "name": "app.cupday/cupday",
+  "title": "Cupday",
+  "description": "Plan and run youth sports tournaments: schedules, live scores, tables and referee links.",
+  "version": "1.0.0",
+  "websiteUrl": "https://cupday.app/docs/mcp",
+  "remotes": [{ "type": "streamable-http", "url": "https://cupday.app/mcp" }]
+}
